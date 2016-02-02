@@ -1,0 +1,7 @@
+Room25_client/Versions
+*.meta
+Room25_client/Builds/
+Room25_client/Library/
+Room25_client/Room25 Client.sln
+Room25_client/Temp/
+Room25_client/obj/
